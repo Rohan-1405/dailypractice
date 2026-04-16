@@ -76,5 +76,7 @@ This confirms successful installation, configuration, and working of WordPress o
 ### Admin Dashboard
 ![Admin](day2-img1.png.png)
 
+### Homepage
+![Admin](day2-img2.png.png)
 
 ---
