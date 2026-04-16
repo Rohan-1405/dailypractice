@@ -72,9 +72,9 @@ This confirms successful installation, configuration, and working of WordPress o
 ---
 
 ## Screenshots
-### Admin Dashboard
-![Admin](day2-image1.png.png)
 
-<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/eef8eb07-6a19-4e7b-af0f-1aa4f45f15bd" />
+### Admin Dashboard
+![Admin](day2-img1.png.png)
+
 
 ---
