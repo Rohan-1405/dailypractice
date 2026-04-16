@@ -1,16 +1,12 @@
 # Task 1
 
-## Hosting
+## Hosting and setup Xampp
 
 Studied the fundamentals of web hosting including local and live servers. Learned how XAMPP works as a local server environment using Apache and MySQL. Also understood the structure and requirements for installing WordPress.
 
-## WordPress Overview
+## Understanding Hosting Concepts
 
-I learned that WordPress is a CMS used to create websites easily using themes and plugins.
-
-## WordPress.org vs WordPress.com
-
-I understood that WordPress.org is self-hosted and gives full control, while WordPress.com is hosted and has some limitations.
+Learned the difference between local hosting and live hosting. Understood how a server delivers web content and how XAMPP simulates a real server using Apache and
 
 ---
 
@@ -18,8 +14,18 @@ I understood that WordPress.org is self-hosted and gives full control, while Wor
 
 ## Create / Configure Feature
 
-I explored how features work in WordPress like themes and plugins.
-I understood how dynamic content is managed.
+Created a database using phpMyAdmin: http://localhost/phpmyadmin → Database name: rohan-com
+
+Configured WordPress using:
+
+Database Name: rohanwp
+Username: root
+Password: (empty)
+Host: localhost
+Table Prefix: wp_
+Completed installation by setting Site Title, Admin Username, Password, and Email.
+
+Accessed admin dashboard: http://localhost/rohan-com/wp-admin
 
 ---
 
@@ -27,7 +33,9 @@ I understood how dynamic content is managed.
 
 ## Customize UI / Settings
 
-Explored Customized WordPress theme (colors, fonts, layout).
+Installed and activated a theme from Appearance → Themes. 
+Created pages and set a static homepage using Settings → Reading. 
+Updated general settings like Site Title, Tagline, and Timezone.
 
 ---
 
@@ -35,8 +43,7 @@ Explored Customized WordPress theme (colors, fonts, layout).
 
 ## Debug / Optimize
 
-I checked for common issues and learned how to fix them. 
-I also explored basic optimization techniques.
+I checked that Apache and MySQL services are running properly to avoid server-related issues. I fixed the database connection by using the correct credentials. I also verified that the WordPress files are placed correctly inside the htdocs folder. Finally, I tested the setup by accessing the application using http://localhost/rohan-com and confirmed that it is working correctly.
 
 ---
 
@@ -44,9 +51,17 @@ I also explored basic optimization techniques.
 
 ## Documentation + Demo Output
 
-I documented all my steps and verified the output. 
-This helped me understand the concepts clearly.
+Tested the WordPress site locally to ensure everything is working correctly.
 
-# Summary
+Verified URLs:
 
-Completed learning and exploration of Static vs Dynamic websites, WordPress overview, and WordPress.org vs WordPress.com concepts. Reviewed implementation and customization options and documented progress.
+Frontend: http://localhost/rohan-com
+Admin: http://localhost/rohan-com/wp-admin
+Demo Output:
+Homepage loads successfully
+Admin dashboard is accessible
+Theme and pages are applied correctly
+
+This confirms successful installation, configuration, and working of WordPress on a local server.
+
+---
