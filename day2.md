@@ -56,9 +56,13 @@ Tested the WordPress site locally to ensure everything is working correctly.
 Verified URLs:
 
 Frontend: http://localhost/rohan-com
+
 Admin: http://localhost/rohan-com/wp-admin
+
 Demo Output:
+
 Homepage loads successfully
+
 Admin dashboard is accessible
 Theme and pages are applied correctly
 
