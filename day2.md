@@ -64,8 +64,17 @@ Demo Output:
 Homepage loads successfully
 
 Admin dashboard is accessible
+
 Theme and pages are applied correctly
 
 This confirms successful installation, configuration, and working of WordPress on a local server.
+
+---
+
+## Screenshots
+### Admin Dashboard
+![Admin](day2-image1.png.png)
+
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/eef8eb07-6a19-4e7b-af0f-1aa4f45f15bd" />
 
 ---
