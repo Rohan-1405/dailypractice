@@ -51,9 +51,9 @@ I documented all the steps I performed while exploring the dashboard, permalinks
 ## Screenshots
 
 ### plugin Dashboard
-![Admin](day2-img1.png.png)
+![Admin](day3-img1.png.png)
 
 ### Freddo theme
-![Admin](day2-img2.png.png)
+![Admin](day3-img2.png.png)
 
 ---
