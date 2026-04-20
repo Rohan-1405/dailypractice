@@ -1,10 +1,10 @@
 # Task 1
 
-## Implement core concept
+## Implement Core Concept
 
-I explored the WordPress dashboard, which acts as the main control panel of the website. From the dashboard, I can manage posts, pages, media, plugins, and settings. I understood how each section helps in controlling different parts of the website.
+### Themes & Plugins
 
-I also explored permalinks, which define the structure of URLs for posts and pages. I learned that using a proper permalink structure (like post name) makes URLs more readable and SEO-friendly.
+I explored WordPress themes and plugins. Themes are used to control the design and appearance of the website, while plugins are used to add extra features and functionality. I understood how themes change the overall look and how plugins extend the website capabilities without coding.
 
 ---
 
@@ -12,11 +12,7 @@ I also explored permalinks, which define the structure of URLs for posts and pag
 
 ## Create / Configure Feature
 
-I created sample blog posts to understand how categories and tags work. I assigned different categories to posts and added multiple tags to describe the content.
-
-I configured the permalink settings by going to Settings → Permalinks and changed it to “Post Name” format. This made the URLs clean and easy to understand.
-
-I also explored different sections of the dashboard like Posts, Pages, and Media to understand how content is created and managed.
+I installed and activated a theme to change the website design. I also installed plugins to add features like forms and customization. I explored how to manage themes and plugins from the dashboard and configured basic settings for proper functionality.
 
 ---
 
@@ -24,9 +20,7 @@ I also explored different sections of the dashboard like Posts, Pages, and Media
 
 ## Customize UI / Settings
 
-I customized the permalink structure to improve the appearance of URLs. I organized posts properly using categories and tags to make content easy to find.
-
-I also explored dashboard settings and adjusted basic options like site title, timezone, and reading settings. This helped me understand how the UI and settings can be customized without coding.
+I customized the installed theme by changing colors, fonts, and layout using the customization options. I also configured plugin settings based on the required features. This helped me understand how to improve the website appearance and functionality without coding.
 
 ---
 
@@ -34,9 +28,7 @@ I also explored dashboard settings and adjusted basic options like site title, t
 
 ## Debug / Optimize
 
-While working, I checked for common issues such as incorrect permalink settings that may cause broken links. I fixed these by re-saving the permalink settings.
-
-I ensured that categories and tags are not duplicated and are used properly to avoid confusion. I also reviewed the dashboard settings to make sure everything is correctly configured for smooth performance.
+I checked for issues like plugin conflicts and ensured all plugins are working properly. I removed unused themes and plugins to improve performance. I also updated themes and plugins to the latest version for better security and stability.
 
 ---
 
@@ -44,7 +36,7 @@ I ensured that categories and tags are not duplicated and are used properly to a
 
 ## Documentation + Demo Output
 
-I documented all the steps I performed while exploring the dashboard, permalinks, categories, and tags. I verified the output by checking whether posts are correctly categorized and URLs are working properly.
+I documented all the steps I performed while exploring themes and plugins. I verified the output by checking the applied theme design and plugin features. This confirmed that customization and functionality are working correctly in WordPress.
 
 ---
 
