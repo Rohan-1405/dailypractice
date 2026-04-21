@@ -2,7 +2,8 @@
 
 ## Posts, Pages, Media
 
-I explored posts, pages, and media in WordPress. Posts are used for dynamic content like blogs, while pages are used for static content like About or Contact. Media is used to upload and manage images, videos, and files on the website.
+I explored posts, pages, and media in WordPress. Posts are used for dynamic content like blogs, while pages are used for 
+static content like About or Contact. Media is used to upload and manage images, videos, and files on the website.
 
 ---
 
