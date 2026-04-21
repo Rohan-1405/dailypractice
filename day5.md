@@ -34,10 +34,7 @@ I documented all the steps I performed while exploring posts, pages, and media. 
 ## Screenshots
 
 ### Post Creation
-![Post](screenshots/post.png)
+![Post](day5-img2.png.png)
 
 ### Page Creation
-![Page](screenshots/page.png)
-
-### Media Library
-![Media](screenshots/media.png)
+![Page](day5-img1.png.png)
