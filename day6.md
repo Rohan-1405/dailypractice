@@ -37,3 +37,6 @@ I documented all the steps and verified the output. The homepage and blog posts 
 
 ### Blog Posts
 ![Posts](day6-img3.png)
+
+### Blog
+![Posts](day6-img1.png)
