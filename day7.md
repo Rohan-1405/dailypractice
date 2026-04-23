@@ -95,7 +95,7 @@ I documented all the steps I performed while exploring themes and plugins. I ver
 ### 2
 ![Admin](day7-img2.png)
 
-### 2
+### 3
 ![Admin](day7-img3.png)
 
 ---
