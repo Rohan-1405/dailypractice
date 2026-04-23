@@ -2,8 +2,6 @@
 
 ## Implement Core Concept
 
-### Description
-A consistent theme was applied across the website to maintain uniform design and branding.
 
 ### Implementation Highlights
 - A **dark header/navigation bar** is used across all pages  
@@ -17,8 +15,6 @@ A consistent theme was applied across the website to maintain uniform design and
 
 ## Create / Configure Feature
 
-### Description
-Theme-related design elements were configured and applied globally.
 
 ### Key Configurations
 - Default layout with:
@@ -35,8 +31,6 @@ Theme-related design elements were configured and applied globally.
 
 ## Customize UI / Settings
 
-### Description
-UI components were customized to improve visual appearance and usability.
 
 ### Customizations Done
 - Navigation bar styling with menu items:
@@ -95,11 +89,14 @@ I documented all the steps I performed while exploring themes and plugins. I ver
 
 ## Screenshots
 
-### plugin Dashboard
-![Admin](day3-img1.png.png)
+### 1
+![Admin](day7-img1.png)
 
-### Freddo theme
-![Admin](day3-img2.png.png)
+### 2
+![Admin](day7-img2.png)
+
+### 2
+![Admin](day7-img3.png)
 
 ---
 
