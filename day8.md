@@ -49,11 +49,8 @@ I documented all the steps and verified the output. The homepage and blog posts 
 
 ## Screenshots
 
-### Homepage
-![Homepage](day6-img2.png)
+### Portfolio
+![Homepage](day8-img1.png)
 
-### Blog Posts
-![Posts](day6-img3.png)
-
-### Blog
-![Posts](day6-img1.png)
+### Portfolio
+![Posts](day8-img2.png)
