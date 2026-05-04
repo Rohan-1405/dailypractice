@@ -75,10 +75,6 @@ Fixed issues and improved frontend experience.
 
 Verified complete business/eCommerce website setup.
 
-**Working URL:**
-
-- Frontend: http://localhost/envostore
-
 **Demo Output:**
 
 - Envo Storefront theme installed successfully
@@ -88,20 +84,7 @@ Verified complete business/eCommerce website setup.
 - UI improved with clean layout and styling
 - Website ready for business use
 
-
-## Screenshots
-
-### 1
-![Admin](day7-img1.png)
-
-### 2
-![Admin](day7-img2.png)
-
-### 3
-![Admin](day7-img3.png)
-
 ---
-
 
 # Screenshots
 
