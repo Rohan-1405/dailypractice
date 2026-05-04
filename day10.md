@@ -1,91 +1,133 @@
-#  Task1
-
-## Implement Core Concept
-
-
-### Implementation Highlights
-- A **dark header/navigation bar** is used across all pages  
-- Consistent font styles and spacing applied  
-- Section-based layout (e.g., About, Environment)  
-- Reusable styling for headings and content blocks  
+# Day 10 — Business Website (Envo Storefront)
 
 ---
 
-## Task2
+## Task 1
 
-## Create / Configure Feature
+### Understanding Envo Storefront Setup
 
+Explored how an eCommerce/business website is structured using the Envo Storefront WordPress theme.
 
-### Key Configurations
-- Default layout with:
-  - Top navigation bar  
-  - Banner/hero section  
-- Consistent color scheme:
-  - Dark header  
-  - Light background content areas  
-- Structured section alignment (image + text)
-  
----
+**Performed actions:**
 
-# Task 3
+- Created database: `wordpress1`
+- Installed WordPress locally
+- Created website: `envostore`
+- Changed permalink settings to "Post name"
+- Installed and activated Envo Storefront theme
+- Reviewed default homepage layout and WooCommerce integration
 
-## Customize UI / Settings
+**Image:**
 
-
-### Customizations Done
-- Navigation bar styling with menu items:
-  - Home, About, Skills, Services, Contact, Technology  
-- Banner/slider with image and centered text  
-- Section layouts:
-  - Left: text content  
-  - Right: image (e.g., Environment section)  
-- Typography improvements:
-  - Large headings  
-  - Styled section titles  
-
-### Example from Project
-- **Home Page**
-  - Hero banner with background image and welcome text  
-- **About Page**
-  - Profile section with image and description  
-- **Environment Page**
-  - Image + descriptive text layout  
-
-### Outcome
-Improved UI clarity and better user experience across all sections.
+1. [Link](day-10-img-1.png)
 
 ---
 
-# Task 4
+## Task 2
 
-## Debug / Optimize
+### Installing WooCommerce & Importing Demo
 
+Configured the website with eCommerce functionality and demo content.
 
-### Issues Identified
-- Text alignment inconsistencies in some sections  
-- Repeated content in Environment section  
-- Spacing differences between pages  
-- Responsive adjustments needed for smaller screens  
+**Performed actions:**
 
+- Installed and activated WooCommerce plugin
+- Completed WooCommerce setup wizard
+- Installed required plugins (Elementor, demo importer)
+- Imported Envo Storefront demo site
+- Fixed demo import issues (if any)
+- Verified homepage sections like banners, products, categories
 
-### Optimization
-- Reused layout structure across pages  
-- Maintained consistent header and navigation  
-- Reduced visual clutter  
+**Image:**
 
-### Outcome
-A cleaner, more consistent, and responsive UI.
+1. [Link](day-10-img-2.png)
+
+---
+
+## Task 3
+
+### Creating Pages & Homepage Setup
+
+Customized business pages and homepage layout.
+
+**Performed actions:**
+
+- Created pages: Home, Shop, About, Contact
+- Set static homepage in settings
+- Edited homepage using Elementor
+- Modified sections like featured products, banners, offers
+- Added sample products using WooCommerce
+
+**Image:**
+
+1. [Link](day-10-img-3.png)
 
 ---
 
+## Task 4
 
-# Task 5
+### Navigation & UI Customization
 
-## Documentation + Demo Output
+Configured menus, layout, and responsive design.
 
-I documented all the steps I performed while exploring themes and plugins. I verified the output by checking the applied theme design and plugin features. This confirmed that customization and functionality are working correctly in WordPress.
+**Performed actions:**
+
+- Created main navigation menu
+- Added pages to header menu
+- Configured mobile menu layout
+- Customized header (logo, cart icon, search bar)
+- Adjusted spacing, fonts, and colors
+- Tested responsive design on mobile view
+
+**Image:**
+
+1. [Link](day-10-img-4.png)
 
 ---
+
+## Task 5
+
+### Debugging & Final Optimization
+
+Fixed issues and improved frontend experience.
+
+**Performed actions:**
+
+- Resolved layout and alignment issues
+- Checked WooCommerce product display
+- Fixed broken links or missing sections
+- Optimized footer content and widgets
+- Added scroll-to-top button
+- Verified overall UI consistency
+
+**Image:**
+
+1. [Link](day-10-img-5.png)
+
+---
+
+## Task 6
+
+### Documentation & Final Output
+
+Verified complete business/eCommerce website setup.
+
+**Working URL:**
+
+- Frontend: http://localhost/envostore
+
+**Demo Output:**
+
+- Envo Storefront theme installed successfully
+- WooCommerce integrated with product listings
+- Homepage fully customized
+- Navigation and mobile responsiveness working
+- UI improved with clean layout and styling
+- Website ready for business use
+
+**Images:**
+
+- Website setup and customization: [Link](day-10-img-1.png)
 
 ## Screenshots
 
