@@ -17,10 +17,6 @@ Explored how an eCommerce/business website is structured using the Envo Storefro
 - Installed and activated Envo Storefront theme
 - Reviewed default homepage layout and WooCommerce integration
 
-**Image:**
-
-1. [Link](day-10-img-1.png)
-
 ---
 
 ## Task 2
@@ -38,10 +34,6 @@ Configured the website with eCommerce functionality and demo content.
 - Fixed demo import issues (if any)
 - Verified homepage sections like banners, products, categories
 
-**Image:**
-
-1. [Link](day-10-img-2.png)
-
 ---
 
 ## Task 3
@@ -58,34 +50,9 @@ Customized business pages and homepage layout.
 - Modified sections like featured products, banners, offers
 - Added sample products using WooCommerce
 
-**Image:**
-
-1. [Link](day-10-img-3.png)
-
 ---
 
 ## Task 4
-
-### Navigation & UI Customization
-
-Configured menus, layout, and responsive design.
-
-**Performed actions:**
-
-- Created main navigation menu
-- Added pages to header menu
-- Configured mobile menu layout
-- Customized header (logo, cart icon, search bar)
-- Adjusted spacing, fonts, and colors
-- Tested responsive design on mobile view
-
-**Image:**
-
-1. [Link](day-10-img-4.png)
-
----
-
-## Task 5
 
 ### Debugging & Final Optimization
 
@@ -100,13 +67,9 @@ Fixed issues and improved frontend experience.
 - Added scroll-to-top button
 - Verified overall UI consistency
 
-**Image:**
-
-1. [Link](day-10-img-5.png)
-
 ---
 
-## Task 6
+## Task 5
 
 ### Documentation & Final Output
 
@@ -125,9 +88,6 @@ Verified complete business/eCommerce website setup.
 - UI improved with clean layout and styling
 - Website ready for business use
 
-**Images:**
-
-- Website setup and customization: [Link](day-10-img-1.png)
 
 ## Screenshots
 
